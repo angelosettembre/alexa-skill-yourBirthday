@@ -1,7 +1,7 @@
 # alexa-skill-yourBirthday
 <p>
   <img src="https://images-na.ssl-images-amazon.com/images/I/51ojUdyvzpL.png" width="150" title="hover text">
-  <img src="https://www.bitradio.it/wp-content/uploads/2019/02/Logo-Alexa.png" width="150" align="center" title="hover text">
+  <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/avs/docs/ux/branding/mark2._TTH_.png" width="150" title="hover text">
 </p>
 Semplice skill che ricorda il giorno del tuo compleanno <br />
 Prova a dire: "Alexa, apri your birthday",
